@@ -1,0 +1,12 @@
+UATHelper: Packaging (Windows): ERROR: Failed to copy D:\UE5.1\UE_5.1\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll to D:\ToyField\Saved\StagedBuilds\Windows\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+PackagingResults: Error: Failed to copy D:\UE5.1\UE_5.1\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll to D:\ToyField\Saved\StagedBuilds\Windows\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+UATHelper: Packaging (Windows): ERROR: Failed to copy D:\UE5.1\UE_5.1\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll to D:\ToyField\Saved\StagedBuilds\Windows\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+UATHelper: Packaging (Windows):        (see C:\Users\RyzenRX580\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE5.1+UE_5.1\Log.txt for full exception trace)
+UATHelper: Packaging (Windows): AutomationTool executed for 0h 24m 8s
+UATHelper: Packaging (Windows): AutomationTool exiting with ExitCode=1 (Error_Unknown)
+PackagingResults: Error: Failed to copy D:\UE5.1\UE_5.1\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll to D:\ToyField\Saved\StagedBuilds\Windows\Engine\Binaries\ThirdParty\DbgHelp\dbghelp.dll
+UATHelper: Packaging (Windows): BUILD FAILED
+LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave CompileFailed...
+LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave CompileFailed...
+LogAudio: Display: Chunk size for SoundWave /Engine/EditorSounds/Notifications/CompileFailed.CompileFailed: 262144
+PackagingResults: Error: Unknown Error
